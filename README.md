@@ -18,7 +18,7 @@ Developed a **MATLAB** program implementing the **stiffness averaging method** t
 
 ## How to Run
 1. Clone or download this repository.
-2. Open **`Stiffness_averaging.m** in MATLAB.
+2. Open **Stiffness_averaging.m** in MATLAB.
 3. Adjust the constituent material parameters (Young's moduli and volume fractions) in the input section if desired, and click **Run**.
 
 ## Tools & Methods
